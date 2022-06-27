@@ -23,3 +23,7 @@ VERY IMPORTANT:
  Windows terminal (powersell), Ubuntu terminal.
 ``` 
 - If you try to play the game in cmd, you will definitely see quite interesting characters instead of colors.
+<br/>
+Picture of the Game:
+
+![kép](https://user-images.githubusercontent.com/60004480/175985289-5bad7d2f-ad22-4ea5-924f-7a62d619b302.png)
